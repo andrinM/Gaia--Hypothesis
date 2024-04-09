@@ -6,6 +6,7 @@ Homöostase bezeichnet einen Gleichgewichtszustand eines offenen dynamischen Sys
 Sie ist damit ein Spezialfall der Selbstregulation von Systemen.
 Die folgenden Punkte sind Thesen aus der Gaia-Hypothese, welche Kirchner wiegerlegen möchte*/
 [1. homeostasi]: Biologically mediated feedback contribute to environmentel homeostasis. //Gaia Abstract
+//stronger: Gaia claims that the biota alter the physical and chemical environment to their own benefit s. 398
     - [not homeostatic]: Biologically mediated feedbacks are not intrinsically homeostatic. // Abstract
     - [climate]: Many of the biological mechanisms that affect global climate are destabilizing, and it is likely
     that the net effect of biological feedback will amplify, not dampen, global warming // Abstract
@@ -29,7 +30,7 @@ Life and the environment evolve togheter as a single system so that not only doe
 tend to inherut the environment but also the environment that favours the most progeny is itself suistained. // Gaia s.392
     
 
-[3. Darwin]: Biologically mediated feedback should arise by Darwinian natural selection. //Gaia Abstract
+[3. [Darwin]: Biologically mediated feedback should arise by Darwinian natural selection. //Gaia Abstract
     + Daisyworld models evolve Gaian feedback becuase they assume that any trait that improves the environment will also
     give a reproductive advantage to its carries over other organisms that share the same environment //Abstract
     - [evolve]: Gaian feedbacks can evolve by natural selection, but so can anti-Gaian feedbacks //Abstract
@@ -37,7 +38,7 @@ tend to inherut the environment but also the environment that favours the most p
     advantage over its non-carriers, whether it improves or degrades the environment (and therby benefits or hinders carriers and non-carriers alike).
     Thus Gaian and anti-Gaian feedbacks are both likely to evolve.
 
-// - here is the general accepted view, + is the way Gaia sees it
+// - is the generally accepted view, + is the way Gaia sees it
 [4. Means something more]: Gaias proponents have consistently held that the Gaia hypothesis means something more than just the co-evolution
 of climate and life, and something more than just the idea that the Earth system can exhibit interesting system-level behaviors. //s.394
     - [General consens on feedback]:Coupling between the biosphere and the physical environment can potentially give rise to either negative
@@ -50,6 +51,7 @@ of climate and life, and something more than just the idea that the Earth system
     and a qualified form of "Optimizing Gaia" (i.e., biological modifications of the environment make it more suitable for life). As Hamilton has put it,
     "right or wrong, Gaia presents the claim for an evolution of a supreme “balance of nature”"
 
+// This is more an example than a real argument
 [5. Oceanic phytoplankton]: Oceanic pythoplankton might serve as a planetary thermostat by producing dimethyl sulfide (DMS),
 a precursor for cloud condensation nuclei, in response to warming.
     - [Paleoclimate data]: Paleoclimate data indicate that if there is such a marine biological thermostat, it is hooked up backwards, making the planet
@@ -59,7 +61,7 @@ a precursor for cloud condensation nuclei, in response to warming.
     along with higher levels of DMS proxy compounds, lower concentrations of CO2 and CH4, and lower temperatures.
 
 //=>
-## Oceanic phytoplankton
+## Argument about oceanic phytoplankton
 
 <Effect of Oceanic phytoplankton>
 
