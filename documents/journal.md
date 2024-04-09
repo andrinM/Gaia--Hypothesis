@@ -1,3 +1,5 @@
-#Journal
+https://www.markdownguide.org/cheat-sheet/
 
-Erstes Journal eintrag
+# Journal
+
+
