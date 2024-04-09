@@ -1,9 +1,14 @@
 # Gaia Hypothesn
 
+/**Im allgemeinen Sinn ist ein System im Gleichgewicht, wenn es sich ohne Einwirkung von außen zeitlich nicht verändert.
+Bei dynamischen Gleichgewichten werden im Allgemeinen nur makroskopische Veränderungen betrachtet.
+Homöostase bezeichnet einen Gleichgewichtszustand eines offenen dynamischen Systems, der durch einen internen regelnden Prozess aufrechterhalten wird.
+Sie ist damit ein Spezialfall der Selbstregulation von Systemen.
+Die folgenden Punkte sind Thesen aus der Gaia-Hypothese, welche Kirchner wiegerlegen möchte*/
 [1. homeostasi]: Biologically mediated feedback contribute to environmentel homeostasis. //Gaia Abstract
     - [not homeostatic]: Biologically mediated feedbacks are not intrinsically homeostatic. // Abstract
     - [climate]: Many of the biological mechanisms that affect global climate are destabilizing, and it is likely
-    that the net effect of biological feedback will me amplify, not dampen, flobal warmimg // Abstract
+    that the net effect of biological feedback will amplify, not dampen, global warming // Abstract
 
 [2. Gaia makes life more suitable]: Biologically mediated feedback make the environment more suitable for life. //Gaia Abstract
     - [appear as if]: Biologically mediated feedback does not necessarily enhance environment, although it will often appear
@@ -11,10 +16,10 @@
     which means doing well under the conditions that they and their co-occuring species have created // Abstract
     - [organisms adapt]: organisms must adapt to the constraints of the environment - or else they dont survive //s.392
     - [organisms are adapted]: the particular forms of life that we observe will alwas be those reasonably
-    well matched to their environmental conditions. Those that are not well matced to their environment will
+    well matched to their environmental conditions. Those that are not well matched to their environment will not
     thrive and will not be noticed.
     + [validates sense of wonder]: The Gaia hypothesis validates our sense of wonder and reverence for the natural world,
-    by proposing a scientific basic for our sense that the Earth is indeed tailored to our needs, and those of the 
+    by proposing a scientific basis for our sense that the Earth is indeed tailored to our needs, and those of the 
     organisms that share the Earth with us.
 
 [2.2 Gaia makes life more suitable]: If organisms have a significant influence on their environment then those species
@@ -32,21 +37,115 @@ tend to inherut the environment but also the environment that favours the most p
     advantage over its non-carriers, whether it improves or degrades the environment (and therby benefits or hinders carriers and non-carriers alike).
     Thus Gaian and anti-Gaian feedbacks are both likely to evolve.
 
-# Types of Gaia (from 1 weak to strong 4)
+// - here is the general accepted view, + is the way Gaia sees it
+[4. Means something more]: Gaias proponents have consistently held that the Gaia hypothesis means something more than just the co-evolution
+of climate and life, and something more than just the idea that the Earth system can exhibit interesting system-level behaviors. //s.394
+    - [General consens on feedback]:Coupling between the biosphere and the physical environment can potentially give rise to either negative
+    (stabilizing) feedback, or positive (destabilizing) feedback, and the consequences of this feedback can potentially be either beneficial or
+    detrimental for any given group of organisms. // s.394
+    + [Only negative feedback]: But in the Gaia literature, mechanisms linking organisms to their environment are generally termed "Gaian" only if
+    they create negative feedbacks, and only if they are beneficial to the organisms involved, or to the biota as a whole. Positive feedbacks,
+    or those that seem detrimental, are typically referred to as "nonGaian" or "anti-Gaian" mechanisms. Thus Gaias proponents appear to view the Gaia
+    hypothesis as combining elements of what I have termed "Homeostatic Gaia" (i.e., biologically mediated feedbacks stabilize the global environment)
+    and a qualified form of "Optimizing Gaia" (i.e., biological modifications of the environment make it more suitable for life). As Hamilton has put it,
+    "right or wrong, Gaia presents the claim for an evolution of a supreme “balance of nature”"
+
+[5. Oceanic phytoplankton]: Oceanic pythoplankton might serve as a planetary thermostat by producing dimethyl sulfide (DMS),
+a precursor for cloud condensation nuclei, in response to warming.
+    - [Paleoclimate data]: Paleoclimate data indicate that if there is such a marine biological thermostat, it is hooked up backwards, making the planet
+    colder when it is cold and warmer when it is warm.
+       + [Atmospheric dust]: It now appears, that DMS production in the Southern Ocean may be controlled by atmospheric dust, which supplies iron,
+    a limiting nutrient. The Antarctic ice core record is consistent with this view, showing greater deposition of atmospheric dust during glacial periods,
+    along with higher levels of DMS proxy compounds, lower concentrations of CO2 and CH4, and lower temperatures.
+
+//=>
+## Oceanic phytoplankton
+
+<Effect of Oceanic phytoplankton>
+
+(1) Oceanic phytoplankton produces DMS
+(2) DMS is a precursor for cloud condensation
+(3) Clouds increase the albedo
+(4) An increased albedo cools the planet
+----
+(5) [Oceanic pythoplankton decreases global temperatur]
+
+<More oceanic phytoplankton when colder>
+
+(1) Antarctic ice core data showed more atmospheric dust in glacial period
+----
+(2) More nutrients for oceanic pythoplankton (more iron)
+(3) Antarctic ice core data showed higher level of DMS proxy compunds during glacial period
+----
+(4) [More oceanic pythoplankton when its cold]
+
+<Oceanic phytoplankton is positive feedback>
+
+(1) [Oceanic pythoplankton decreases global temperatur]
+(2) [More oceanic pythoplankton when its cold]
+----
+(4) [Oceanic phytoplankton is positive feedback]
+
+
+
+# Types of Gaia (from 1 weak to strong 5)
+// 1⊆2⊆3⊆4⊆5
 
 [1 Influential Gaia]: Life collectively has a significant effect on Earths environment. // s.393
     + [clear fact]: clearly fact is the recognition that Earths organisms have a significant effect on the physical
     and chemical environment. // s.393
         + [Biogeochemist]: Biogeochemist have devoted decades of painstaking work tracing the
-        details of these interactions. // s.939 
+        details of these interactions. // s.393
+        + [a]: Many important chemical constituents of the atmosphere and oceans are either biogenic or biologically controlled, and many important fluxes
+        at the Earth's surface are biologically mediated, // s.393/394
 
-[2 Coevolutenary Gaia]: The evolution of life and the evolution of its environment are interwined,
-with each affecting the other. // s.393
+[2 Coevolutenary Gaia]: The evolution of life and the evolution of its environment are interwined, with each affecting the other. // s.393
+    + [coupled system]: Another well-established fact that is incorporated in Gaia is the notion that Earth's organisms and their environment form a 
+    coupled system; the biota affect their physical and chemical environment, which in turn shapes their further evolution. In this way, Earth's
+    environment and life co-evolve through geologic time. // s.394/395
 
 [3 Homeostatic Gaia]: Atmosphere-biosphere interactions are dominated by negative feedback, and this feedback
 helps to stabilize the global environment. // s.393
+    //How to answer the question
+    + [Answering the question]: Biogeochemists have documented and quantified many important atmosphere-biosphere linkages
+    (particularly those associated with greenhouse gas emissions and global warming), with the result that one can estimate the sign,
+    and sometimes the magnitude, of the resulting feedbacks // s.395
+        //such analyses are based on three types of evidence:
+        + [Temperatur manipulation]: Biological responses to plotscale experimental manipulations of temperature and/or CO2 concentrations
+        + [Computer simulations]: Computer simulations of changes in vegetation community structure 
+        + [Correlations]: Correlations between temperature and atmospheric concentrations in long-term data sets
+    + [Increase photosynthesis]: Increased atmospheric CO2 concentrations stimulate increased photosynthesis, leading to carbon sequestration in
+    biomass (negative feedback).
+    + [Effects of warming]: Warming may lead to drying, and thus sparser vegetation and increased desertification, in mid-latitudes, increasing planetary albedo and
+    atmospheric dust concentrations (negative feedback).
+    - [Soil respiration]: Warmer temperatures increase soil respiration rates, releasing organic carbon stored in soils (positive feedback).
+    - [Fire frequency]: Warmer temperatures increase fire frequency, leading to net replacement of older, larger trees with younger, smaller ones,
+    resulting in net release of carbon from forest biomass (positive feedback).
+    - [expansion of shrublands]: Conversely, higher atmospheric CO2 concentrations may increase drought tolerance in plants, potentially leading to
+    expansion of shrublands into deserts, thus reducing planetary albedo and atmospheric dust concentrations (positive feedback).
+    - [replacement of tundra]: Warming leads to replacement of tundra by boreal forest, decreasing planetary albedo (positive feedback).
+    - [accelerated methane production]: Warming of soils accelerates methane production more than methane consumption, leading to net methane release
+    (positive feedback).
+    - [accelerated N20 production]: Warming of soils accelerates N20 production rates (positive feedback).
+    - [high-latitude peatlands]: Warmer temperatures lead to release of CO2 and methane from high-latitude peatlands (positive, potentially large, feedback).
+    /*This list of feedbacks is not comprehensive, but I think it is sufficient to cast considerable doubt on the notion that biologically mediated feedbacks are nec-
+essarily (or even typically) stabilizing s.396*/
+
+    
+
 
 [4 Geophysical Gaia]: The Biosphere can be modeled as a single giant organism. // s.393
 
-[5 Optimizing Gaia]: Life optimizes the physical and chemical environment to best meet the biospheres needs. // s.393
+[5 Optimizing Gaia]: Life optimizes the physical and chemical environment to best meet the biospheres needs. // s.393 continoues on s.398 
 
+# Benevolent for Gaia
+/*The arguments in this section do not contribute to the facts that Kirchner uses to undermine Gaia, but are benevolent for Gaia.
+I would categorize those statements under "Benefits of the Gaia-Hypothesis" for now.*/
+
+[Educational]: Gaias proponents have helped to educate a much wider audience about the pervasive influence of organisms on their environment. // s.394
+
+[Inspiring]: Gaia has also inspired original research exploring several biologically mediated processes, including production of dimethyl sulfide
+by phytoplankton and microbial acceleration of mineral weathering. // s.394
+
+[Promote systems-analytic approach]: Gaias proponents have helped to promote a systemsanalytic approach to the global environment, in parallel with a much larger and
+broader-based effort in the biogeochemical community as a whole. //s.394

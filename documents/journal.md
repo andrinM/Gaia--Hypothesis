@@ -1,0 +1,3 @@
+#Journal
+
+Erstes Journal eintrag
