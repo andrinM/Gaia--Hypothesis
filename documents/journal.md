@@ -2,6 +2,8 @@ https://www.markdownguide.org/cheat-sheet/
 
 # Journal
 
+## 11.04.2024
+
 ## Welche Ergebnisse sind aus Eurer Sicht zurzeit schon stabil?
 
 Wir sind entschieden, den ausgewählten Text zu behalten.
@@ -36,3 +38,23 @@ Diese drei Thesen versucht Kirchner in seinem Text zu wiederlegen.
 
 Das Projket muss im Moment nicht angepasst werden.
 Momentaner Fokus ist auf allen drei Argumenten II.). Je nach dem müssen wir uns vielleicht auf einen konzentrieren.
+
+## 19.04.2024
+
+Gaia argumentiert, dass eine Homöostase existiert. Das heisst, negatives und positives Feedback gleichen sich aus. Kirchner argumentiert mit dem Klimawandel, der sehr viele positive Feedbacks aufweist. Diese positiven Feedbacks sind für viele Organismen schädlich. Somit wäre die Homöostase wiederlegt.
+
+Wenn die Gaia-Hypothese von allgemeinem Leben spricht (und nicht nur auf die jetzigen Organismen), könnte die Homöostase verteidigt werden, indem wir sagen, das trotz vieler negativer Feedbacks die Umweltbedingungen für Leben erhalten bleiben (einfach nicht für die jetzigen).
+
+Überlegung zu Optimizing Gaia:
+Die Unterscheidung von Gaia und Kirchners Position ist irendwie klar, aber irgendwie auch nicht.
+
+Gaia
+Sei fi eine Funktion mit Input xi (x in Spezien) und Output yi (yi: zu xi passende Umwelt) (i in 1,..,n)
+Sei g eine Funktion mit n Funktionen als Input und Ouput z unsere aktuelle Umwelt
+g(f1, .. fn) = z
+Dann ist g(f1,..,fn) Gaia
+
+Kirchner
+Sei h eine Funktion mit Input c (undefiniert) und Output xi (Spezies)
+h(c) = xi
+Dann ist h(zi) natürliche Selektion
