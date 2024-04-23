@@ -68,5 +68,22 @@ direkten Zusammenhang herstellen zwischen den drei Argumenten. Wir müssten sie 
 Die 5 Arten von Gaia geben ein gutes Grundgerüst, indem wir eine Teilmengen-Beziehung haben. Kircher geht aber nicht auf alle Arten ein
 (besonders wenig auf Geophysiological Gaia). Dies macht es schwierig das Grundgerüst mit Aussagen zu füllen, bzw. müssten wir viel selber interpretieren.
 
-### Lesehilfe
+### Veränderungen zum letzten mal
+Wir haben nun zwei Karten erstellt, welche übersichtlich sein sollten und als Grundgerüst dienen sollen. Nun konnten wir die beiden Ansätze (3 Hauptthesen vs. 5 Arten von Gaia) vergleichen und uns für einen Weg entscheiden.
 
+
+### Aktuelle Schwierigkeiten
+
+
+### Nächste Schritte
+
+
+### Gerne eine Rückmeldung für folgende Aspekte
+
+GG -> OG -> HG -> CG -> IG
+
+Frage: Wenn OG falsch ist, ist dann GG auch direkt falsch?
+Wenn HG richtig ist, ist dann CG direkt richtig?
+
+Wenn wir Argumente gegen HG haben, dann macht es keine Sinn, diese Argumente bei GG und OG anzufügen.
+Grundätzlich, Argumente möglichst für die rechte Seite (Tiefe) suchen.
