@@ -39,7 +39,7 @@ Diese drei Thesen versucht Kirchner in seinem Text zu wiederlegen.
 Das Projket muss im Moment nicht angepasst werden.
 Momentaner Fokus ist auf allen drei Argumenten II.). Je nach dem müssen wir uns vielleicht auf einen konzentrieren.
 
-## 19.04.2024
+## 25.04.2024
 
 ### Allgemeine Überlegungen
 Gaia argumentiert, dass eine Homöostase existiert. Das heisst, negatives und positives Feedback gleichen sich aus. Kirchner argumentiert mit dem Klimawandel, der sehr viele positive Feedbacks aufweist. Diese positiven Feedbacks sind für viele Organismen schädlich. Somit wäre die Homöostase wiederlegt.
@@ -62,7 +62,7 @@ Wir haben nun zwei Karten erstellt, welche übersichtlich sein sollten und als G
 
 Neue Karten:
 - Karte_25042024.ad (5 Arten übersichtlich)
-- Karte_25042024_extended.ad (5 Arten mit den wichtigsten Angriffen)
+- Karte_25042024_extended.ad (5 Arten mit den wichtigsten Angriffe)
 - Gaia_forms.ad (5 Arten von Gaia mit viel Details)
 - gaia3.ad (3 zentrale Thesen)
 
