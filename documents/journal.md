@@ -46,19 +46,6 @@ Gaia argumentiert, dass eine Homöostase existiert. Das heisst, negatives und po
 
 Wenn die Gaia-Hypothese von allgemeinem Leben spricht (und nicht nur auf die jetzigen Organismen), könnte die Homöostase verteidigt werden, indem wir sagen, das trotz vieler negativer Feedbacks die Umweltbedingungen für Leben erhalten bleiben (einfach nicht für die jetzigen).
 
-Überlegung zu Optimizing Gaia:
-Die Unterscheidung von Gaia und Kirchners Position ist irendwie klar, aber irgendwie auch nicht:
-
-Gaia
-Sei fi eine Funktion mit Input xi (x in Spezien) und Output yi (yi: zu xi passende Umwelt) (i in 1,..,n)
-Sei g eine Funktion mit n Funktionen als Input und Ouput z unsere aktuelle Umwelt
-g(f1, .. fn) = z
-Dann ist g(f1,..,fn) Gaia
-
-Kirchner
-Sei h eine Funktion mit Input c (undefiniert) und Output xi (Spezies)
-h(c) = xi
-Dann ist h(zi) natürliche Selektion
 
 ### Probleme
 Domenic hat eine Karte erstellt zu den drei Hauptargumenten von Krichner und Andrin eine Karte über die 5 Arten von Gaia.
@@ -67,20 +54,36 @@ direkten Zusammenhang herstellen zwischen den drei Argumenten. Wir müssten sie 
 
 Die 5 Arten von Gaia geben ein gutes Grundgerüst, indem wir eine Teilmengen-Beziehung haben. Kircher geht aber nicht auf alle Arten ein
 (besonders wenig auf Geophysiological Gaia). Dies macht es schwierig das Grundgerüst mit Aussagen zu füllen, bzw. müssten wir viel selber interpretieren.
+Weiter ist die Frage, in welcher Form wir die Argumente in die 5 Arten integireren sollen. Kirchner nennt jeweils das Argument für Gaia, z.B. "Biologically mediated feedback contribute to environmentel homeostasis", beschreibt dann die Sichtweise der Gaia-Hypothese und versucht dann das Argument zu wiederlegen. Ich denke wir müssten dann das bereits wiederlegte Argument als Angriff auf eine Art von Gaia verwenden. Wir hätten dann jeweils das Gaia-Argument in der Art von Gaia und das Gegenargument von Kirchner als Angriff.
+
 
 ### Veränderungen zum letzten mal
-Wir haben nun zwei Karten erstellt, welche übersichtlich sein sollten und als Grundgerüst dienen sollen. Nun konnten wir die beiden Ansätze (3 Hauptthesen vs. 5 Arten von Gaia) vergleichen und uns für einen Weg entscheiden.
+Wir haben nun zwei Karten erstellt, welche übersichtlich sein sollten und als Grundgerüst dienen sollen. Nun konnten wir die beiden Ansätze (3 Hauptthesen vs. 5 Arten von Gaia) vergleichen.
+
+Neue Karten:
+- Karte_25042024.ad (5 Arten übersichtlich)
+- Karte_25042024_extended.ad (5 Arten mit den wichtigsten Angriffen)
+- Gaia_forms.ad (5 Arten von Gaia mit viel Details)
+- gaia3.ad (3 zentrale Thesen)
 
 
 ### Aktuelle Schwierigkeiten
 
+Zuordnung der einzelnen Argumente in die fünf Arten von Gaia.
 
 ### Nächste Schritte
 
+5 Arten von Gaia:
+- Positionierung der einzelnen Argumente in die 5 Arten von Gaia. Was passt wo hin, im Moment sieht es so aus zentrale_thesen.ad:
+    - [Gaia and Homeostasi] greift an/stützt Homeostatic Gaia
+    - [Gaia and Environmental Enhancement] greift an/stützt Optimizing Gaia
+    - [Gaia and Natural Selection] greift an/stützt Optimizing Gaia
+- Genaue Beschreibung der 5 Arten von Gaia und allenfalls etwas umschreiben. Meiner Ansicht nach fehlt der Begriff "Selbstregulierend",
+da dies ein zentrales Konzept in der Gaia-Hypothese ist und in Optimizing Gaia nicht vorkommt.
 
 ### Gerne eine Rückmeldung für folgende Aspekte
 
-GG -> OG -> HG -> CG -> IG
+GG -> OG -> HG -> CG -> IG (Modell wie auf der Karte in Karte_25042024.ad)
 
 Frage: Wenn OG falsch ist, ist dann GG auch direkt falsch?
 Wenn HG richtig ist, ist dann CG direkt richtig?
