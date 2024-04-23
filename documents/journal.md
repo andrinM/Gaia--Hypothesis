@@ -66,4 +66,7 @@ Die drei Hauptargumente sind klar strukturiert und zu jedem Argument gibt es im 
 direkten Zusammenhang herstellen zwischen den drei Argumenten. Wir müssten sie als drei separate Thesen behandeln.
 
 Die 5 Arten von Gaia geben ein gutes Grundgerüst, indem wir eine Teilmengen-Beziehung haben. Kircher geht aber nicht auf alle Arten ein
-(besonders wenig auf Optimizing Gaia). Dies macht es schwierig das Grundgerüst mit Aussagen zu füllen, bzw. müssten wir viel selber interpretieren.
+(besonders wenig auf Geophysiological Gaia). Dies macht es schwierig das Grundgerüst mit Aussagen zu füllen, bzw. müssten wir viel selber interpretieren.
+
+### Lesehilfe
+
