@@ -31,16 +31,28 @@ advantage Z, Y does not confer a differential advantage.
 <Environmental Enhancing Trait Argument>
 
 (1) Carriers of trait Z enhance the environment.
-(2) The environment enhanced by carriers of Z is shared among all organisms.
-(3) Non-carriers of Z benefit equally from the enhancements made by carriers.
-(4) Because both carriers and non-carriers of Z benefit equally, the presence
-of Z does not provide a selective advantage to carriers alone.
+(2) The environment enhanced by carriers of Z is shared among all members of that species.
 ----
-(5) Therefore, natural selection does not favor Z specifically due to its
-environmental enhancements.
+(3) Non-carriers of Z benefit equally from the enhancements made by carriers.
+----
+(4) Because both carriers and non-carriers of Z benefit equally, the presence
+of Z does not provide a advantage to carriers alone.
+----
+(5) Environmentally enhancing traits are not a sufficient
+condition for a reproductive advantage
 
-nur bei konkurrenten
+/**
+Thus claims that "life enhancing effects would be favored by natural selection" are
+not generally valid.
 
+A(x): x has a enviromental enhancing trait
+B(x): x has a reproductive advantage (over who?)
+
+¬(A -> B)
+∃x: (A(x) ∧ ¬B(x))
+*/
+
+/**
 It is still theoretically possible for evolution to systematically favor Gaian traits over
 anti-Gaian ones, but only if environments and their organisms are jointly subject to some
 form of natural selection, in competition with other environment/organism assemblages.
@@ -48,5 +60,7 @@ This would create a kind of metapopulation, and natural selection in metapopulat
 produce evolutionary outcomes that would otherwise seem counterintuitive    
 However, a mechanism needs to be demonstrated by which such natural selection could occur in this
 context.
+*/
+
 # 1 Biologically mediated feedback are not intrinsically homeostatic    
 
