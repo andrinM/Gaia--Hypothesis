@@ -1,0 +1,78 @@
+<No intentional envoromental enhancement>
+
+(1) [1]: Natural Selection is the only mechanism to get traits {in map: True}
+(2) [2]: Natural selection does not intentionally happen {in map: True}
+-----
+(3) [3]: All traits are inherited unintentionally {in map: True}
+(4) [4]: Environment enhancing traits are inherited unintentionally {in map: True}
+(5) [5]: Environment enhancing traits are necessary for organisms to alter environment {in map: True}
+----
+(6) [Not intentional]:Organisms do not intentionally alter the enviromente for their ow benefit or the benefit of
+    other organisms // because the trait was not given intentionally
+
+/**
+A(x,y): Organism x alters the environment for the benefit of organism y
+C(x): enviromantal alterations of organism x are intentionally
+∀x∀y((A(x,y)∨A(x,x))→C(x))
+
+Negation: 
+∃x∃y((A(x,y)∨A(x,x))∧¬C(x)
+*/
+
+<Differential Advantage Argument>
+
+(1) Trait X increases an organism's ability to survive and reproduce.
+(2) Organisms carrying trait X have more offspring than those without it.
+//(3) Trait X becomes increasingly common within the population.
+----
+(4) Therefore, trait X provides a differential advantage,
+    meaning natural selection has an effect on trait X.
+
+<General Advantage Argument>
+
+(1) Trait Y provides advantage Z to its carriers.
+(2) The same advantage Z provided by trait Y is available to some non-carriers.
+(4) Both carriers and some non-carriers of Y benefit equally from advantage Z
+-----
+(6) Y does not confer a differential advantage.
+----
+(5) Therefore, natural selection has no effect on Y, and Y is considered a general advantage.
+
+<Environmental Enhancing Traits are not favored by Darwinian selection>
+
+(1) Carriers of trait Z enhance the environment due to Z.
+(2) The enhanced environment by carriers of Z is that which is shared among organisms .
+----
+(3) Non-carriers of Z can benefit equally from the enhancements made by carriers.
+----
+(4) Z is a general advantage
+(5) For Z to be effected by natural selection it needs a differential advantage
+(8) Z is effected by natural selection
+----
+(6) Z has a differential advantage
+(7) There are more env. enhancing traits with only general advantage
+----
+(9) enviromental enhancing traits are not favored by darwinian selection
+// the can arise but then as a biproduct
+
+
+[Gaian feedback arises always with anti-gaian feedback]:
+    + <Environmental Enhancing Trait Argument>
+        + <Differential Advantage Argument>
+        + <General Advantage Argument>
+
+<Beste Erklärung>
+
+(1) Spätere Organismen profitieren von Umweltbedingungen von früheren Organismen
+(2) Erklärung: Teleologie
+(3) 2 ist die beste Erklärung
+----
+(4) gilt 2
+
+<Bessere Erklärung>
+
+(1) Spätere Organismen profitieren von Umweltbedingungen von früheren Organismen
+(2) Erklärung: Natürliche Selektion
+(3) Dieses 2 ist besser als das andere 2
+----
+(4) Darum dieses 2
