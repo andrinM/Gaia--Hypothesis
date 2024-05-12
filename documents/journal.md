@@ -90,3 +90,14 @@ Wenn HG richtig ist, ist dann CG direkt richtig?
 
 Wenn wir Argumente gegen HG haben, dann macht es keine Sinn, diese Argumente bei GG und OG anzufügen.
 Grundätzlich, Argumente möglichst für die rechte Seite (Tiefe) suchen.
+
+## 10.05 erster Tag Retraite
+Begonnen haben wir mit der Ausarbeitung der drei Kernthesen:
+- (3) Environmental Enhancing Trait Argument: Die Umweltverbessernden Traits sind nur genau dann beeinflusst von der natürlichen Selektion ("überleben diese"), wenn diese einen differential advantage aufweisen
+
+- (1) Homeostatic Gaia is wrong: es gibt viel Evidenz, wieso das die Erde nicht ein einer Homöostase ist
+
+- (3) Environmental Enhancing Traits are not favored by Darwinian selection: Env. enh. traits only are effe
+ 
+- (2) Organisms do not intentionally alter the enviromente for their ow benefit or the benefit of
+other organisms
