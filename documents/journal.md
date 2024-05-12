@@ -92,6 +92,7 @@ Wenn wir Argumente gegen HG haben, dann macht es keine Sinn, diese Argumente bei
 Grundätzlich, Argumente möglichst für die rechte Seite (Tiefe) suchen.
 
 ## 10.05 erster Tag Retraite
+
 Begonnen haben wir mit der Ausarbeitung der drei Kernthesen:
 - (3) Environmental Enhancing Trait Argument: Die Umweltverbessernden Traits sind nur genau dann beeinflusst von der natürlichen Selektion ("überleben diese"), wenn diese einen differential advantage aufweisen
 
@@ -101,3 +102,9 @@ Begonnen haben wir mit der Ausarbeitung der drei Kernthesen:
  
 - (2) Organisms do not intentionally alter the enviromente for their ow benefit or the benefit of
 other organisms
+
+## Informationen Projektabgabe
+Vorgehensweisen, welche haben viel Zeit gekostet, wie nützlich waren sie.
+Dinge fertig machen, die nach der Retraite offen geblieben sind.
+Es geht nicht um das definitiv beste Ergebnis sonder um den Lernprozess.
+Karte nicht mehr alzufest verändern. (Stand Retraite)
